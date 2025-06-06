@@ -58,6 +58,5 @@ jupyter notebook projekt.ipynb
 
 ## 📌 Future Work
 
-- Integrate a machine learning model to predict quality.
 - Expand dataset to include more regions and years.
 - Visualize changes over time (if time series data is available).
